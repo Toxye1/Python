@@ -1,0 +1,21 @@
+- Definição de um computador por Andrew S. Tanenbaum: Um computador digital é uma máquina que pode resolver problemas executando uma série de instruções que lhe são fornecidas.
+
+- Definição de programa segundo Tanenbaum: Conjunto de instruções que descrevem a maneira de se realizar determinada tarefa.
+
+
+
+Este texto foi narrado por Steve Jobs em comercial da Apple de 1997, o primeiro a usar o slogan Pense Diferente.
+
+Isto é para os os loucos. 
+Os desajustados.
+Os rebeldes.
+Os criadores de caso. As peças redondas nos buracos quadrados.
+Os que vêem as coisas de forma diferente.
+Eles não gostam de regras.
+E eles não têm nenhum respeito pelo status quo. 
+
+Você pode citá-los, discordá-los, glorificá-los ou difamá-los. Mas a única coisa que você não pode fazer é ignorá-los.
+
+Porque eles mudam as coisas. Eles empurram a raça humana para frente. Enquanto alguns os vêem como loucos, nós vemos gênios.
+
+Porque as pessoas que são loucas o suficiente para achar que podem mudar o mundo, são as que de fato, mudam."
